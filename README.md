@@ -1,5 +1,3 @@
-![Alt text](Ref Architecture .png)
----
 # Hosting a Dynamic E-commerce Web Application on AWS
 
 ## Project Overview
